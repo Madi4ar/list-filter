@@ -1,0 +1,168 @@
+[
+  {
+    "id": 101,
+    "category": "Вывоз мусора",
+    "address": "ул. Абая, 45",
+    "status": "В работе",
+    "created_at": "2025-11-01",
+    "description": "Не вывезен мусор с контейнерной площадки",
+    "latitude": 53.2205,
+    "longitude": 63.6283,
+    "photo": "https://via.placeholder.com/400x300?text=Вывоз+мусора"
+  },
+  {
+    "id": 102,
+    "category": "Освещение улиц",
+    "address": "пр. Аль-Фараби, 10",
+    "status": "Решено",
+    "created_at": "2025-10-28",
+    "description": "Не горит фонарь во дворе",
+    "latitude": 53.2156,
+    "longitude": 63.6209,
+    "photo": "https://via.placeholder.com/400x300?text=Освещение+улиц"
+  },
+  {
+    "id": 103,
+    "category": "Дорожное покрытие",
+    "address": "ул. Сатпаева, 22",
+    "status": "В работе",
+    "created_at": "2025-11-05",
+    "description": "Яма на проезжей части",
+    "latitude": 53.2180,
+    "longitude": 63.6250,
+    "photo": "https://via.placeholder.com/400x300?text=Дорожное+покрытие"
+  },
+  {
+    "id": 104,
+    "category": "Озеленение",
+    "address": "пр. Нурсултана Назарбаева, 15",
+    "status": "Решено",
+    "created_at": "2025-10-25",
+    "description": "Необходимо посадить деревья вдоль тротуара",
+    "latitude": 53.2220,
+    "longitude": 63.6300,
+    "photo": "https://via.placeholder.com/400x300?text=Озеленение"
+  },
+  {
+    "id": 105,
+    "category": "Вывоз мусора",
+    "address": "ул. Гагарина, 8",
+    "status": "Отклонено",
+    "created_at": "2025-10-20",
+    "description": "Переполненные мусорные контейнеры",
+    "latitude": 53.2100,
+    "longitude": 63.6150,
+    "photo": "https://via.placeholder.com/400x300?text=Вывоз+мусора"
+  },
+  {
+    "id": 106,
+    "category": "Освещение улиц",
+    "address": "ул. Байтурсынова, 30",
+    "status": "В работе",
+    "created_at": "2025-11-03",
+    "description": "Отсутствует освещение на пешеходном переходе",
+    "latitude": 53.2250,
+    "longitude": 63.6350,
+    "photo": "https://via.placeholder.com/400x300?text=Освещение+улиц"
+  },
+  {
+    "id": 107,
+    "category": "Дорожное покрытие",
+    "address": "пр. Республики, 5",
+    "status": "Решено",
+    "created_at": "2025-10-15",
+    "description": "Трещины на асфальте",
+    "latitude": 53.2000,
+    "longitude": 63.6000,
+    "photo": "https://via.placeholder.com/400x300?text=Дорожное+покрытие"
+  },
+  {
+    "id": 108,
+    "category": "Озеленение",
+    "address": "ул. Пушкина, 12",
+    "status": "В работе",
+    "created_at": "2025-11-07",
+    "description": "Обрезка сухих веток деревьев",
+    "latitude": 53.2300,
+    "longitude": 63.6400,
+    "photo": "https://via.placeholder.com/400x300?text=Озеленение"
+  },
+  {
+    "id": 109,
+    "category": "Вывоз мусора",
+    "address": "ул. Ленина, 50",
+    "status": "Решено",
+    "created_at": "2025-10-10",
+    "description": "Не убран мусор после субботника",
+    "latitude": 53.2050,
+    "longitude": 63.6100,
+    "photo": "https://via.placeholder.com/400x300?text=Вывоз+мусора"
+  },
+  {
+    "id": 110,
+    "category": "Освещение улиц",
+    "address": "ул. Мира, 18",
+    "status": "Отклонено",
+    "created_at": "2025-10-05",
+    "description": "Мигающий фонарь",
+    "latitude": 53.2120,
+    "longitude": 63.6180,
+    "photo": "https://via.placeholder.com/400x300?text=Освещение+улиц"
+  },
+  {
+    "id": 111,
+    "category": "Дорожное покрытие",
+    "address": "пр. Абая, 100",
+    "status": "В работе",
+    "created_at": "2025-11-08",
+    "description": "Отсутствует разметка на дороге",
+    "latitude": 53.2400,
+    "longitude": 63.6500,
+    "photo": "https://via.placeholder.com/400x300?text=Дорожное+покрытие"
+  },
+  {
+    "id": 112,
+    "category": "Озеленение",
+    "address": "ул. Кабанбай батыра, 25",
+    "status": "Решено",
+    "created_at": "2025-10-12",
+    "description": "Полив газонов",
+    "latitude": 53.2350,
+    "longitude": 63.6450,
+    "photo": "https://via.placeholder.com/400x300?text=Озеленение"
+  },
+  {
+    "id": 113,
+    "category": "Вывоз мусора",
+    "address": "ул. Жамбыла, 7",
+    "status": "В работе",
+    "created_at": "2025-11-10",
+    "description": "Стихийная свалка мусора",
+    "latitude": 53.2150,
+    "longitude": 63.6220,
+    "photo": "https://via.placeholder.com/400x300?text=Вывоз+мусора"
+  },
+  {
+    "id": 114,
+    "category": "Освещение улиц",
+    "address": "пр. Достык, 40",
+    "status": "Решено",
+    "created_at": "2025-10-18",
+    "description": "Установка дополнительного освещения",
+    "latitude": 53.2200,
+    "longitude": 63.6280,
+    "photo": "https://via.placeholder.com/400x300?text=Освещение+улиц"
+  },
+  {
+    "id": 115,
+    "category": "Дорожное покрытие",
+    "address": "ул. Кенесары, 15",
+    "status": "Отклонено",
+    "created_at": "2025-10-01",
+    "description": "Неровности на тротуаре",
+    "latitude": 53.2105,
+    "longitude": 63.6160,
+    "photo": "https://via.placeholder.com/400x300?text=Дорожное+покрытие"
+  }
+]
+
